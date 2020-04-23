@@ -16,6 +16,7 @@ const User = async () => {
         </ul>
       </div>
     </div>
+    
   `;
 
 	return template;
